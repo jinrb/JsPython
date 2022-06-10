@@ -8,6 +8,9 @@
 #### 6.淘宝h5 sign
 #### 7.shopee  if-none-match-
 #### 8.soopage  email
+#### 9.某麦 analysis
+#### 10.某域 ehsy-verify
+#### 11.某建筑市场平台 response 解密
 
 ---
 ### 以上代码仅供学习研究,请勿用于非法用途
